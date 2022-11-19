@@ -1,0 +1,15 @@
+{
+  "name": "git-basis-v2",
+  "version": "1.0.0",
+  "description": "git --version",
+  "main": "one.js",
+  "scripts": {
+    "test": "get init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git add exam.txt"
+  },
+  "author": "Elena",
+  "license": "ISC"
+}
